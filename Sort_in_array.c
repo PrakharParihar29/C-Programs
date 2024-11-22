@@ -54,10 +54,6 @@ void InsertionSort(int arr[], int size){
 	}
 }
 
-void QuickSort(int arr[], int size){
-	
-}
-
 int main(){
     int arr[]={3, 15, 7, 25, 11, 20};
     int size = sizeof(arr)/sizeof(int);
