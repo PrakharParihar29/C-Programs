@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Example of transpose
+//Example of traversal
 void display(int arr[],int n){ 
 	int i;
     for (i = 0; i < n; i++){
